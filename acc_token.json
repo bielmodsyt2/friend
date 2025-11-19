@@ -1,0 +1,9 @@
+{
+  "Tcp": {
+      "token": "JWT_TOKEN_FOR_EMOTE_CATEGORY"
+    },
+    
+  "emote": {
+      "token": "JWT_TOKEN_FOR_EMOTE_CATEGORY" 
+  }
+}
